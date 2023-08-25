@@ -1,1 +1,1 @@
-const offerLink = "https://v.ht/CT61H";
+const offerLink = "https://www.google.com/collections/s/list/HUAjeQpgTl6vFj6HQYSQyQ/NeuIbL7YxCM";
