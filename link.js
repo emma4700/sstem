@@ -1,1 +1,1 @@
-const offerLink = "https://s.id/1SYDH";
+const offerLink = "https://tinyurl.com/sex-room-free";
